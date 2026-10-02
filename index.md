@@ -32,7 +32,8 @@ The schedule will be announced on [the program page]({{ site.baseurl }}/program)
 
 {{site.title}} is organised by
 
-* [Pete Gautam](mailto:pratyush.gautam@manchester.ac.uk) (local organizer)
+* Pete Gautam (local organizer)
+* [Martin van Beek](https://martinvanbeek.github.io) (local organizer)
 * [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/)
 * [Max Horn](https://www.quendi.de/en/math)
 
