@@ -3,6 +3,7 @@ layout: page
 title: Participants
 participants:
   - {name: Pete Gautam, affiliation: "University of Manchester, UK"}
+  - {name: Martin van Beek, affiliation: "University of Manchester, UK"}
   - {name: Ruth Hoffmann, affiliation: "University of St Andrews, Scotland"}
   - {name: Max Horn, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
 ---
